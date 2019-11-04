@@ -1,0 +1,20 @@
+---
+title: Cape Cod Environment
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
+library(leaflet)
+```
+
+<!-- <div class="row-full" style="height: 500px;"> -->
+
+<!-- ```{r, out.width="100%", out.height= "100%"} -->
+<!-- leaflet(options = leafletOptions(zoomControl = FALSE, -->
+<!--                                  maxZoom = 9, -->
+<!--                                  minZoom = 9)) %>% -->
+<!--   addProviderTiles("Esri.OceanBasemap") %>% -->
+<!--    setView(-70.2, 41.6, zoom = 9) -->
+<!-- ``` -->
+
+<!-- </div> -->

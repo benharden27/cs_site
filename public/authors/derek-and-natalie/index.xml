@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate and Society</title>
+    <link>/authors/derek-and-natalie/</link>
+    <description>Recent content on Climate and Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/authors/derek-and-natalie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Echos of the End</title>
+      <link>/ec_stories/right-whales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ec_stories/right-whales/</guid>
+      <description>Everybody enjoys peace and quiet. It gives us the ability to have a quiet conversation, to clear the mind, and to focus. At times it can be hard to find this silence, but once the sound is drowned out relief is found.
+For some people their quiet place may be the sea, a place where waves gently land on silky shores. To set the mind free over the infinite horizon that belongs to the ocean can be therapeutic.</description>
+    </item>
+    
+  </channel>
+</rss>

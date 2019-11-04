@@ -1,0 +1,7 @@
+---
+name: Amelia Ahring and Nicole Pollack
+photo: '/images/authors/ahring_pollack.jpg'
+avatar: 'https://images.unsplash.com/photo-1426869884541-df7117556757?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6f3f4a6f359875679161702e81f2337a&auto=format&fit=crop&w=160&q=80'
+---
+
+*"We enjoyed the creative freedom that we had within our story, which gave us the opportunity to keep reconstructing our narrative until we came to a final product. One challenge we would like to highlight is that Amelia doesn’t have a Mac, which meant that more work had to be done on Nicole’s computer, and if we had to work on something after class, Nicole would always need to be there. We have limited access to the Woods Hole community while at SEA, and we valued the chance to sit down with local residents who offered us a glimpse into a town that cares about its people and the land around it."*

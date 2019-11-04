@@ -1,0 +1,12 @@
+<div class = "post-list">
+  {{ range .Paginator.Pages }}
+  <figure>
+<img src= {{ .Params.image | absURL }}>
+<figcaption><a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}"><h3>{{ .Title }}</h3></a> 
+<p>{{ .Summary }}</p>
+<a href = "{{ .Params.ExternalLink | default .RelPermalink }}"><p><em>Read more...</em></p></a>
+</figcaption>
+    
+    </figure>
+{{ end }}
+  </div>
