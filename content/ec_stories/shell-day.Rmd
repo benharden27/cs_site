@@ -1,5 +1,5 @@
 ---
-title: "Nearshore Shell Threats"
+title: "Shells Under Threat"
 image: /ec_stories/shell-day/shell_day_cover.png
 tags: radio
 radio_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242
@@ -10,6 +10,11 @@ authors:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242&color=%23aa483f&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false&download=true"></iframe>
 
 Ocean Acidification is a progressing issue in the face of climate change. Jenny Rheuben is a Research Associate with WHOI (Woods Hole Oceanographic Institute) who focuses on the effects of climate change on coastal environments. Here, Rhueban speaks to the threat of ocean acidification, an example of how climate change impacts our natural resources and how people are in turn affected by that.
+
+<figure>
+<img src ="/ec_stories/shell-day/rheuben.jpeg">
+<figcaption><p>Jenny Rheuben is a Research Associate at the Woods Hole Oceanographic Institution</p></figcaption>
+</figure>
 
 While addressing the threat of ocean acidification, we must first be able to monitor it. Monitoring the entire coast is a big task because of the large amount of area that must be covered.  In order to address this challenge, WHOI scientists worked together to create a pilot water sampling event which they called ‘Shell Day’. Rheuben was involved with the project which took place on August 22, 2019. Volunteers across the North East coast collected water samples to help assist in WHOI’s mission to learn more about coastal acidification. Listen in to learn more.
 

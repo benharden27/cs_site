@@ -1,33 +1,9 @@
-
 <section class="container page">
   <article>
-{{ if not (isset .Params "image") }} 
-      <h1 class = "title">{{ .Title }}</h1>
-{{ end }}
+    <header>
+      <h1>{{ .Title }}</h1>
+    </header>
 
-{{ .Content }}
-
-</article>
-
-{{if isset .Params "authors"}}
-<h2>The Producers</h2>
-{{- range .Params.authors }}
-  {{ $authorPath := printf "authors/%s" (urlize .) }}
-  {{- with $.Site.GetPage "taxonomyTerm" $authorPath }}
-  <h3>{{.Params.name}}</h3>
-    <div class = "author">
-    <figure>
-      <img src="{{ .Params.photo }}" alt="" />
-    <figcaption>
-      <p>{{ .Content }}</p>
-      </figcaption>
-    </figure>
-    </div>
-  {{ end }}
-{{ end }}
-{{ end }}
-
-
-
-
+    {{ .Content }}
+  </article>
 </section>

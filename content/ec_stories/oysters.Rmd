@@ -9,10 +9,19 @@ authors:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242&color=%23aa483f&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false&download=true"></iframe>
 
-TThe local wastewater treatment plant probably isn’t the first place you’d choose to spend a Saturday afternoon. But as algal blooms devoured the oxygen in Falmouth’s ponds and the fish floated belly-up, the coastal town’s idyllic waters started to smell worse than the treatment plant. A day with the wastewater might not seem so bad after all.
 
-Decades-long resistance to sewering in Falmouth meant the town continued to depend on residential septic systems. Nitrogen poured from those septic systems into the ponds, feeding the algae blooms that choked out aquatic life.
+Oysters are an icon of Cape Cod. Tourists flock here in the summer to find the best shellfish in town, enjoy evenings at oyster bars, and even try their hand at oyster picking themselves. But the Falmouth Municipal Shellfish Propagation Program is giving these small animals a whole new life here, growing them to both control pollution and bolster local aquaculture industry. 
 
-This is a story about procrastination, ponds, and pee, but it is also a story about resilience. As algae clouded the water and the shellfish disappeared, every pond neighborhood in Falmouth grappled with the same dilemma. Falmouth doesn’t have the money to build sewers all over town, and even state-of-the-art septic systems don’t do anything about the nitrogen. Without sewers, how could people save their ponds? 
+<figure>
+<img src ="/ec_stories/oysters/Solorio_Ockene_photo1.jpeg">
+<figcaption><p>Christina Lovely of Falmouth Marine and Environmental Services at the Waquoit Bay field site</p></figcaption>
+</figure>
 
-Falmouth’s communities have taken matters into their own hands, and their own backyards, joining forces against nitrogen and seeking innovative new ways to combat algae blooms. Falmouth is a town with a clear mission. Though its quest may not seem like the most glamorous tale, the town is determined that nitrogen pollution will not be a part of its future.
+Falmouth’s nitrogen pollution problem is becoming worse as the population here grows. Nitrogen gets into waterways from septic system effluent and fertilizer and stormwater runoff, and high levels of Nitrogen in waterways cause phytoplankton and algal blooms, leading to unpleasant smells, murky water, loss of biodiversity, and even fish kills. Oysters can filter up to 50 gallons of water each per day and they feed on phytoplankton, making them an excellent nitrogen management tool. The Municipal Oyster Program uses oyster aquaculture to improve water quality of some of Falmouth’s most degraded estuarine ecosystems. Christina Lovely and her coworkers at Falmouth Marine and Environmental Services work with many volunteers to raise oysters, starting from seed in upwellers, and then in grow-out farm gear at field sites before moving them to the harbor for harvest. 
+
+<figure style = "float:right;margin:1em 0 0 2em;">
+<img src ="/ec_stories/oysters/Solorio_Ockene_photo2.JPG">
+<figcaption><p>Christina looks at an oyster with students from Upper Cape Cod Regional Technical High School</p></figcaption>
+</figure>
+
+This project is special because of the sheer number of benefits that it provides. The program is only a few years old, but residents have already seen drastic water quality improvements- homeowners at the Little Pond field site say that they can now see through water that was too murky to do so just a few years ago. The program also provides other benefits to the community, from educational experiences for local high schoolers to getting retired volunteers involved and invested in the issue. 

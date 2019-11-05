@@ -1,7 +1,6 @@
 ---
 name: Amalia Murgueitio and Sarah Strand 
-photo: '/images/authors/murgueitio_strand.jpeg'
-avatar: 'https://images.unsplash.com/photo-1426869884541-df7117556757?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6f3f4a6f359875679161702e81f2337a&auto=format&fit=crop&w=160&q=80'
+photo: '/images/authors/murgueitio_strand.jpg'
 ---
 
 *"We enjoyed meeting Betsy Gladfelter, she was a great interviewee and inspiring to us. The whole process of producing the podcast was enjoyable. We had a good brainstorming stage, a great interview and a story that flowed naturally. Our biggest challenge was reducing a fantastic audio of several hours full of incredible details to a five-minute podcast. This experience gave us a better idea of what producing radio is like, an exercise for attempting to produce a story suitable for a non-scientific audience and a close-up to the different and complex steps that take place in a restoration process."*

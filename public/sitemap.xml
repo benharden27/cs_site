@@ -82,16 +82,16 @@
   </url>
   
   <url>
-    <loc>/ec_stories/shell-day/</loc>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
   <url>
     <loc>/series/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ec_stories/shell-day/</loc>
   </url>
   
   <url>

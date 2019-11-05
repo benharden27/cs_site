@@ -1,19 +1,11 @@
-<h1>{{ .Params.name }}</h1>
-<img src="{{ .Params.photo }}" alt=""/>
+{{ define "title" }}
+  {{- if eq .Kind "taxonomy" -}}
+    {{- i18n .Data.Singular | title -}}
+    {{- print ": " -}}
+  {{- end -}}
 
-<h2>Bio</h2>
-{{ .Content }}
-{{ with .Params.twitter }}
-  <p>
-    <a href="https://twitter.com/{{ substr . 1 }}">
-      Follow {{ $.Params.name }} on Twitter
-    </a>
-  </p>
+  {{- .Title }} · {{ .Site.Title -}}
 {{ end }}
-
-<h2>Articles</h2>
-<ul>
-{{ range .Data.Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ define "content" }}
+  {{ partial "author_list.html" . }}
 {{ end }}
-</ul>
