@@ -43,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "_data$"]
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["css/sea.css","css/custom.css","css/hero.css"]
+    custom_css = ["css/sea.css","css/base.css","css/grid.css","css/hero.css"]
     
     # Custom JS
     custom_js = []

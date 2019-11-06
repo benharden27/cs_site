@@ -155,43 +155,6 @@ body, html {
 
 
 
-.post-grid {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-column-gap: 30px;
-  grid-row-gap: 30px;
-  margin:2rem 0
-}
-
-@media only screen and (max-width:768px) {
-  .post-grid {
-  grid-template-columns: auto;
-  }
-}
-
-.post-image {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 300px;
-    width: 266px;
-}
-
-
-.lr p, .lr h4, .lr img{
-  position: relative;
-  padding: 10px 20px 20px 20px;
-  color: white;
-  margin: 0px;
-  bottom: 0;
-}
-
-.lr img{
-  padding: 20px 20px 0 20px;
-}
-
-
-.title:focus,.title:hover{text-decoration:none}
 
 video {
   display: block;
@@ -204,15 +167,30 @@ video {
     width: 400px;
 }
 
+@media only screen and (max-width:768px) {
+  .content figure {
+     margin: 1em 0 2em 0;
+     width: 100%;
+  }
+}
 
 .author figure {
   float: none;
   width: 100%;
 }
+
 .author figure img{
     float: left;
     margin: 0 2em 2em 0;
     width: 400px;
+}
+
+@media only screen and (max-width:768px) {
+  .author figure img{
+    float: none;
+    margin: 1em 0 2em 0;
+    width: 100%;
+  }
 }
 
 .author figcaption p{
@@ -220,27 +198,13 @@ video {
   font-style: normal;
 }
 
-.post-list figcaption p{
-  text-align: left;
-  font-style: normal;
+@media only screen and (max-width:768px) {
+  .author figcaption p{
+    text-align: left;
+    font-style: normal;
+  }
 }
 
-.post-list figure img {
-  width: 300px;
-  margin: 0 2em 0 0;
-}
-
-.post-image:hover .title {
-    display: block;
-}
-
-.summary {
-  display: none;
-}
-
-.post-image:hover .summary {
-    display: none;
-}
 
 .producers {
   clear:both;

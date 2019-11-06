@@ -84,7 +84,7 @@
 <main class="wrapper">
 <div class="{{ if .IsHome }}full-height{{ end }}", style = "{{ if .IsHome }}background-image: url({{"images/city.jpg" | absURL}}){{end}}";>
       {{ partial "header.html" . }}
-  {{ if and (.IsPage) (isset .Params "image") }}
+  {{ if (isset .Params "image") }}
      {{ partial "head_hero.html" . }}
   {{ end }}
       <div class="content">

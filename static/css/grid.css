@@ -1,0 +1,56 @@
+.post-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  margin:2rem 0
+}
+
+@media only screen and (max-width:768px) {
+  .post-grid {
+    grid-template-columns: auto;
+  }
+}
+
+.post-image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 266px;
+}
+
+@media only screen and (max-width:768px) {
+  .post-image {
+    width: 100%;
+}
+  
+}
+
+.gt{
+  position: relative;
+  padding: 10px 20px 20px 20px;
+  color: white;
+  margin: 0px;
+  bottom: 0;
+}
+
+.gi{
+  padding: 20px 20px 0 20px;
+}
+
+
+.title:focus,.title:hover{text-decoration:none}
+
+
+.post-image:hover .title {
+    display: block;
+}
+
+.summary {
+  display: none;
+}
+
+.post-image:hover .summary {
+    display: none;
+}

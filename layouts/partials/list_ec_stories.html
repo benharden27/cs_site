@@ -1,0 +1,17 @@
+<section class="container list">
+  
+  {{ if not (isset .Params "image") }} 
+  <h1>
+    {{- if eq .Kind "taxonomy" -}}
+      {{- i18n .Data.Singular | title -}}
+      {{- print ": " -}}
+    {{- end -}}
+
+    {{- .Title -}}
+</h1>
+
+{{ end }}
+{{ .Content }}
+  {{ partial "post_grid.html" .}}
+  {{ partial "pagination.html" . }}
+</section>

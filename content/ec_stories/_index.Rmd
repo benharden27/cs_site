@@ -1,11 +1,17 @@
 ---
-title: Cape Cod Environment
+title: Behind the Scenery
+image: '/images/cape_cod2.jpeg'
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
 library(leaflet)
 ```
+
+### Stories of Environmental Change on Cape Cod
+
+The following stories were produced by the Fall 2019 [SEA Semester](https://www.sea.edu) program, Climate and Society. Student teams had just 6 weeks to report on a local environmentak project on Cape Cod. [Read more...](../about/)
+
 
 <!-- <div class="row-full" style="height: 500px;"> -->
 
