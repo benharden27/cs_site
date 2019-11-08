@@ -1,4 +1,4 @@
-baseurl = "/climateandsociety/"
+baseurl = "/"
 title = "Climate and Society"
 
 theme = "hugo-coder"
@@ -6,7 +6,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+paginate = 10
 canonifyurls = true
 relativeurls = true
 
