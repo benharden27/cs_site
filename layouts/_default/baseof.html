@@ -83,7 +83,7 @@
 {{ partial "head_sea.html" . }}
 <hr class = "partition">
 <main class="wrapper">
-<div class="{{ if .IsHome }}full-height{{ end }}", style = "{{ if .IsHome }}background-image: url({{"images/city.jpg" | absURL}}){{end}}";>
+<div class="{{ if .IsHome }}full-height{{ end }}", style = "{{ if .IsHome }}background-image: url({{ .Site.Params.background_image | absURL}}){{end}}";>
       {{ partial "header.html" . }}
   {{ if (isset .Params "image") }}
      {{ partial "head_hero.html" . }}

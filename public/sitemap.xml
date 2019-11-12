@@ -52,10 +52,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/ec_stories/</loc>
   </url>
   
@@ -70,6 +66,10 @@
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
