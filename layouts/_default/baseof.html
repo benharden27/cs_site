@@ -80,7 +80,8 @@
   </head>
 
   <body class="{{ if .Site.Params.rtl }}rtl{{ end }} {{ if .Site.Params.inverted }}inverted{{ end }}">
-
+{{ partial "head_sea.html" . }}
+<hr class = "partition">
 <main class="wrapper">
 <div class="{{ if .IsHome }}full-height{{ end }}", style = "{{ if .IsHome }}background-image: url({{"images/city.jpg" | absURL}}){{end}}";>
       {{ partial "header.html" . }}
