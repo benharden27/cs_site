@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/climateandsociety/"
 title = "Climate and Society"
 
 theme = "hugo-coder"
