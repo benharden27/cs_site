@@ -2,6 +2,7 @@
 title: "A New Take on an Old Tradition"
 image: /ec_stories/oysters/Solorio_Ockene_photo3.jpg
 tags: radio
+tagline: "Using oysters to mop up polution"
 radio_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242
 authors:
   - Naomi and Mollie

@@ -1,6 +1,7 @@
 ---
 title: "Black Inscription"
 image: /ec_stories/black-inscription/black_inscription.jpg
+tagline: "Telling stories about the ocean through music"
 tags: radio
 radio_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242
 authors:
