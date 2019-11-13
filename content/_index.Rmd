@@ -2,15 +2,14 @@
 title: "Climate and Society"
 subtitle: "Exploring Human Relationships to the Ocean at SEA Semester"
 image: '/images/city.jpg'
-subpages:
-  - about
-  - radio
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
 library(leaflet)
 ```
+
+<p style = "font-size: 150%; text-align: center">Welcome to Climate and Society, a social science and humanties program at SEA Semester.</h4>
 
 
 <!-- <div class="row-full" style="height: 500px;"> -->

@@ -1,0 +1,45 @@
+---
+title: "Fieldwork"
+tagline: "Travel to New Zealand Glacier Country and sample at sea"
+image: "/images/seamans.jpg"
+feature: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
+library(leaflet)
+```
+
+Once students leave our Woods Hole Campus, they travel to New Zeland to begin their second shore component and then their sea component aboard the SSV Robert C. Seamans.
+
+During the second shore component students will head to the South Island of New Zealand, where they visit Westland Tai Poutini and Aoraki Mount Cook National Parks, located in the majestic Southern Alps, to examine the ecological, economic, and cultural effects of a changing environment. Treking through New Zealand’s Glacier Country, students examine the effects of retreating glaciers on coastal, riverine, and wetland habitats and discuss the changing landscape with climate and glacier experts. Students also document their work collecting field research data, recording multimedia stories, and meet with members of local Māori communities confronting new environmental challenges.
+
+
+
+```{r, out.width="100%"}
+leaflet(options = leafletOptions(minZoom = 0, maxZoom = 18)) %>%
+  setView(170.2,-43.6,10) %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addMarkers(170.166613,-43.500039,label="Westland Tai Putini National Park") %>%
+  addMarkers(170.259129,-43.603376,label="Aoraki Mount Cook National Park")
+  # Add default OpenStreetMap map tiles
+```
+
+
+After a week in the Southern Alps, students board the SSV Robert C. Seamans in Auckland for a month of sailing. Along the journey students get to see first-hand the effects of climate change on coastal towns, farmlands and famous wineries in the Bay of Islands, Napier and Great Barrier Island. Between port stops, students examine a changing ocean from the deck and lab of the Seamans as they head out across coastal and open ocean environments. At sea, students work together to examine the changes to our oceans brought about by shifting climatic conditions, and develop strategies for connecting scientific data to observable climate impacts on human societies. There's no better way to gain a unique and valuable perspective of climate change that links oceanic and terrestrial systems.
+
+```{r, out.width="100%"}
+leaflet(options = leafletOptions(minZoom = 0, maxZoom = 18)) %>%
+  setView(177,-37,6) %>%
+  addProviderTiles("Esri.WorldStreetMap") %>%
+    addMarkers(174.764383,-36.841075,label="Auckland") %>%
+    addMarkers(174.143979,-35.212514,label="Bay of Islands") %>%
+    addMarkers(176.915102,-39.498856,label="Napier") %>%
+    addMarkers(175.426414,-36.243148,label="Great Barrier Island") %>%
+    addMarkers(179.959648,-34.584588,label="Open Ocean")
+
+  # Add default OpenStreetMap map tiles
+```
+
+
+The semester concludes aboard the Seamans at Great Barrier Island with a final symposium featuring student presentations of original field research and digital storytelling projects.

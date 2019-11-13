@@ -1,8 +1,8 @@
 <section class="container page">
   <article>
-    <header>
-      <h1>{{ .Title }}</h1>
-    </header>
+      {{ if not (isset .Params "image") }} 
+      <h1 class = "title">{{ .Title }}</h1>
+{{ end }}
 
     {{ .Content }}
   </article>

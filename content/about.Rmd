@@ -1,27 +1,16 @@
 ---
 title: "Climate and Society"
+tagline: "Learn more about the program"
+image: "/images/Upper_Tasman_Glacier.jpg"
+feature: 1
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, error = FALSE)
 ```
 
-[Climate and Society](https://www.sea.edu/voyages/climate_society_fall2019) is a 12-week [SEA Semester](https://www.sea.edu) program with a focus on the intersection of climate change with human society. Students spend the first six weeks of the program at SEA's campus in Woods Hole, MA before travelling to glacier country in New Zealand and eventially joining the [SSV Robert C. Seamans](https://www.sea.edu/ships_crew/seamans) for a 30-day expedition to explore the open ocean. These [stories](ec_stories/) are part of the "Environmental Communication" class during the first shore component in Woods Hole. 
+Finding solutions to the problems brought about by climate change requires going beyond scientific data. We must also consider the possibilities found within social and political institutions, economic systems, cultural practices, and the creative forces of art, literature, and design. The humanities and social sciences contribute to knowledge of how our changing climate impacts human lives and societies, and they play a vital role in building strategies for global climate resilience and adaptation.
 
-Students were in teams of two to report on their assigned story around the Cape Cod region. 
+[Climate and Society](https://www.sea.edu/voyages/climate_society_fall2019) is a new 12-week [SEA Semester](https://www.sea.edu) program with a focus on the intersection of climate change with human society. Students spend the first six weeks of the program at SEA's campus in Woods Hole, MA before travelling to glacier country in New Zealand and eventially joining the [SSV Robert C. Seamans](https://www.sea.edu/ships_crew/seamans) for a 30-day expedition to explore the open ocean.
 
-## Teachers
-
-Ben Harden
-
-Jeff Wescott
-
-Eve Zuckoff
-
-Heather Goldstone
-
-Mindy Todd
-
-Chris Reddy
-
-
+Throughout, students meet with climate experts and discuss a range of climate related issues including public health, coastal and urban resilience, environmental justice, clean energy, displaced communities, national security, and sustainable design. The interactive courses in oceanography, communication, and leadership prepare students for the sailing and field research phase of the program. <[Find out more](https://www.sea.edu/voyages/climate_society_fall2020)>.
