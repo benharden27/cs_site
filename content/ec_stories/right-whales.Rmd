@@ -3,13 +3,11 @@ title: "Echos of the End"
 image: /ec_stories/right-whales/greenbaum_fischer_photo4.jpg
 tags: radio
 tagline: "How noise polution is hurting Northern Right Whales"
-radio_url: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242
+radio_id: 711745123
 authors:
   - Derek and Natalie
 ---
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/176479242&color=%23aa483f&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false&visual=false&download=true"></iframe>
-
+  
 Everybody enjoys peace and quiet. It gives us the ability to have a quiet conversation, to clear the mind, and to focus. At times it can be hard to find this silence, but once the sound is drowned out relief is found.
 
 <figure>
