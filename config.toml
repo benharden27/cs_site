@@ -1,4 +1,4 @@
-baseurl = "/climateandsociety/"
+baseurl = "/"
 title = "Climate and Society"
 
 theme = "hugo-coder"
@@ -13,6 +13,7 @@ relativeurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
 
 disqusShortname = "yourdiscussshortname"
 
@@ -61,15 +62,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "_data$"]
 [[menu.main]]
   name = "About"
   weight = 1
-  url = "/about/"
+  url = "about/"
+  
       
 [[menu.main]]
   name = "Fieldwork"
   weight = 2
-  url = "/fieldwork/"
+  url = "fieldwork/"
         
 [[menu.main]]
   name = "Radio Stories"
   weight = 3
-  url = "/ec_stories/"
+  url = "ec_stories/"
 
