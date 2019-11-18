@@ -4,7 +4,7 @@
     background-image: linear-gradient(
       rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.1)
-    ), url({{ .Params.image | absURL }});
+    ), url({{ .Params.image | relURL }});
 /* Set a specific height */
  width: 100vw;
  position: relative;
