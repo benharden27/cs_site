@@ -15,8 +15,7 @@ Once students leave our Woods Hole Campus, they travel to New Zeland to begin th
 During the second shore component students will head to the South Island of New Zealand, where they visit Westland Tai Poutini and Aoraki Mount Cook National Parks, located in the majestic Southern Alps, to examine the ecological, economic, and cultural effects of a changing environment. Treking through New Zealand’s Glacier Country, students examine the effects of retreating glaciers on coastal, riverine, and wetland habitats and discuss the changing landscape with climate and glacier experts. Students also document their work collecting field research data, recording multimedia stories, and meet with members of local Māori communities confronting new environmental challenges.
 
 
-
-```{r, out.width="100%"}
+```{r, out.width="100%", out.height="500px"}
 leaflet(options = leafletOptions(minZoom = 0, maxZoom = 18)) %>%
   setView(170.2,-43.6,10) %>%
   addProviderTiles("Esri.WorldImagery") %>%
