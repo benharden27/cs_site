@@ -1,0 +1,19 @@
+---
+title: "Shells Under Threat"
+image: /radio/shell-day/shell_day_cover.png
+tags: radio
+tagline: "Ocean Acidification comes to visit Cape Cod"
+radio_id: 711745051
+authors:
+  - Mathilde and June
+---
+
+Ocean Acidification is a progressing issue in the face of climate change. Jenny Rheuben is a Research Associate with the Woods Hole Oceanographic Institution who focuses on the effects of climate change on coastal environments. Here, Rhueban speaks to the threat of ocean acidification, an example of how climate change impacts our natural resources and how people are in turn affected by that.
+
+<figure>
+<img src ="/radio/shell-day/rheuben.jpeg">
+<figcaption><p>Jenny Rheuben is a Research Associate at the Woods Hole Oceanographic Institution</p></figcaption>
+</figure>
+
+While addressing the threat of ocean acidification, we must first be able to monitor it. Monitoring the entire coast is a big task because of the large amount of area that must be covered.  In order to address this challenge, scientists worked together to create a pilot water sampling event which they called "Shell Day". Rheuben was involved with the project which took place on August 22, 2019. Volunteers across the North East coast collected water samples to help assist in their mission to learn more about coastal acidification.
+

@@ -11,7 +11,7 @@
     <div class = "post-grid">
       {{range sort (where .Site.Pages "Params.feature" "!=" nil) "Params.feature"}}
         <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">
-        <div class = "post-image front" style = "background-image: url({{ .Params.image | absURL }}">
+        <div class = "post-image front" style = "background-image: url({{ .Params.image | relURL }}">
     <div class = "post-text">
         <span class = "front-narrow">
         <h4 class = "gt front"><b>{{ upper .Title }}</b></h4>

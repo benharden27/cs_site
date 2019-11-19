@@ -20,7 +20,7 @@
   <h3>{{.Params.name}}</h3>
     <div class = "author">
     <figure>
-      <img src="{{ .Params.photo }}" alt="" />
+      <img src="{{ .Params.photo | relURL }}" alt="" />
     <figcaption>
       <p>{{ .Content }}</p>
       </figcaption>

@@ -1,0 +1,31 @@
+---
+title: "Black Inscription"
+image: /radio/black-inscription/black_inscription.jpg
+tagline: "Telling stories about the ocean through music"
+tags: radio
+radio_id: 711745120
+authors:
+  - Dylan and George
+---
+
+As the science of climate change has painted an increasingly dire picture of the near future, the importance of environmental communication has become a hot topic in the environmental movement. While the main takeaways of climate science and the reality of global warming caused by human activities are all but entirely settled, people often aren’t able to fully internalize what this means on a personal level. 
+
+<figure style = "width:100%">
+<img src ="/radio/black-inscription/BI 19-61.JPG">
+<figcaption>
+<p>Visuals projected during the recent performance of Black Inscription</p>
+</figcaption>
+</figure>
+
+<figure>
+<img src ="/radio/black-inscription/BI 19-87.JPG">
+<figcaption>
+<p>Matthias Bossi and Carla Kihlstedt during rehursals</p>
+</figcaption>
+</figure>
+
+In Woods Hole, a center of oceanographic studies, a local musical and multimedia performance called Black Inscription took on the challenge of communicating these tough scientific lessons. Carla Khilsted and Matthias Bossi provide insight as to what inspired their creation of a musical production dedicated to ocean science, and how science and art can play entirely complementary roles in the future of environmental communication. They’re not only part of the Woods Hole community of oceanographic interest, but the evolving community of environmental communicators who utilize visual, poetic, and literary art to make potentially confusing climate science accessible to anyone. At once a massive undertaking of environmental communication and a very personal story of change in oneself, their story balances the timeliness of their subject matter with the deeper timelessness of why climate science matters to everyone.
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/Gs_aNPrIJoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
