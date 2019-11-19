@@ -4,10 +4,10 @@
   <div class = "post-image" style = "background-image: linear-gradient(
       rgba(0, 0, 0, 0.1),
       rgba(0, 0, 0, 0.1)
-    ), url({{ .Params.image | absURL }})">
+    ), url({{ .Params.image | relURL }})">
     
       
-        <img class = "gi" src = "/images/play_icon.png" width = "85">
+        <img class = "gi" src = "/climateandsociety/images/play_icon.png" width = "85">
         <h4 class = "gt"><b>{{ upper .Title }}</b></h4>
         <div class="w3-animate-opacity summary">
         <h4 class = "gt summary">{{ .Params.tagline }}</h4>

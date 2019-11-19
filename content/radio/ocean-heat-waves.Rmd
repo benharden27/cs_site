@@ -12,13 +12,13 @@ This summer, fisherman on the cape encountered a surprising catch. Traps hauled 
 
 <figure>
 <figure style = "margin:0 0 1em 0;">
-<img src ="/radio/ocean-heat-waves/Sheldon_Clausen_photo4.jpg">
+<img src ="/climateandsociety/radio/ocean-heat-waves/Sheldon_Clausen_photo4.jpg">
 <figcaption>
 <p>Visitors are hard pressed to find a local menu without seafood options</p>
 </figcaption>
 </figure>
 <figure style = "margin:0 0 0 0;">
-<img src ="/radio/ocean-heat-waves/Sheldon_Clausen_photo2.JPG">
+<img src ="/climateandsociety/radio/ocean-heat-waves/Sheldon_Clausen_photo2.JPG">
 <figcaption>
 <p>Dr. Glen Gawarkiewicz is a senior scientist at Woods Hole Oceanographic Institution</p>
 </figcaption>
