@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate and Society</title>
-    <link>/authors/maia-and-mujahed/</link>
+    <link>/climateandsociety/authors/maia-and-mujahed/</link>
     <description>Recent content on Climate and Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/authors/maia-and-mujahed/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/climateandsociety/authors/maia-and-mujahed/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Banking Carbon</title>
-      <link>/ec_stories/carbon-bank/</link>
+      <link>/climateandsociety/ec_stories/carbon-bank/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ec_stories/carbon-bank/</guid>
+      <guid>/climateandsociety/ec_stories/carbon-bank/</guid>
       <description>On the southern shore of Cape Cod you can find beautiful, bright green marshlands within Waquoit Bay. The marshes are homes for a vast array of plants and animals that rely on them to survive. Although, due to climate change their homes are being altered by storms, sea-level rise, and ocean acidification which leads to vegetation loss and a decline of various birds species. Some people may be unaware of the importance of marine marshes and how they are powerful natural ecosystems with potential to reduce climate change.</description>
     </item>
     

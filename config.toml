@@ -1,4 +1,4 @@
-baseurl = "/climateandsociety/"
+baseURL = "/climateandsociety/"
 title = "Climate and Society"
 
 theme = "hugo-coder"
@@ -7,13 +7,12 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 10
-canonifyurls = true
-relativeurls = true
+canonifyurls = false
+relativeurls = false
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 
 disqusShortname = "yourdiscussshortname"
 

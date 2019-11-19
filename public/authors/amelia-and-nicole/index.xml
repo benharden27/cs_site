@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate and Society</title>
-    <link>/authors/amelia-and-nicole/</link>
+    <link>/climateandsociety/authors/amelia-and-nicole/</link>
     <description>Recent content on Climate and Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/authors/amelia-and-nicole/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/climateandsociety/authors/amelia-and-nicole/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fixing Nitrogen</title>
-      <link>/ec_stories/wastewater/</link>
+      <link>/climateandsociety/ec_stories/wastewater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ec_stories/wastewater/</guid>
+      <guid>/climateandsociety/ec_stories/wastewater/</guid>
       <description>The local wastewater treatment plant probably isn’t the first place you’d choose to spend a Saturday afternoon. But as algal blooms devoured the oxygen in Falmouth’s ponds and the fish floated belly-up, the coastal town’s idyllic waters started to smell worse than the treatment plant. A day with the wastewater might not seem so bad after all.
    Amy Lowell, Falmouth Wastewater Superintendent, explains nitrogen removal at the treatment plant   Decades-long resistance to sewering in Falmouth meant the town continued to depend on residential septic systems.</description>
     </item>
